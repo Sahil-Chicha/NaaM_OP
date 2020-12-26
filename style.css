@@ -1,0 +1,25 @@
+
+
+body{
+    text-align: center;
+    background-color: rgba(206, 95, 61, 0.719);
+}
+
+.salil{
+    width: 400px;
+    height: 400px;
+    display: block;
+    position: relative;
+    left: 550px;
+    
+}
+
+.popo{
+    position: relative;
+    top: 50px;
+}
+
+.p{
+    position: relative;
+    top: 100px;
+}
